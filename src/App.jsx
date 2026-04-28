@@ -17,6 +17,11 @@ export default function App() {
           <h4>Приложение 2</h4>
           <p>Моя говорящая Леля</p>
         </article>
+
+        <article className={styles.article}>
+          <h4>Приложение 3</h4>
+          <p>Пздц нх</p>
+        </article>
       </section>
 
       <section>
